@@ -1,4 +1,4 @@
-| Paper | Year | Downstream Task | Code |
+| Title | Year | Downstream Task | Code |
 |:------|:----:|:---------------|:-----|
 | [Certifiable robustness and robust training for graph convolutional networks]() | 2019 | Node Classification | [Link](https://github.com/danielzuegner/robust-gcn) |
 | [Adversarial defense framework for graph neural network]() | 2019 | Node Classification | N/A |
