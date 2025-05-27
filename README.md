@@ -17,6 +17,7 @@ Companion index for the paper **“SoK: Security Strategies for Graph Neural Net
 1. **Browse**
    - **`ATTACKS.md`** — Attack papers index
    - **`DEFENSES.md`** — Defense papers index
+   - - **`Adjustments.xlsx`** — Excel sheet containing some of the installation steps we performed that were not included in the codebases.
 
 2. **Add a new entry**
    1. Copy the row format from `templates/paper_entry_template.md`.
