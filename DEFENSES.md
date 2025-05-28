@@ -34,7 +34,7 @@
 | [A simple and yet fairly effective defense for graph neural networks](https://arxiv.org/pdf/2402.13987) | 2024 | Node Classification | [Link](https://github.com/Sennadir/NoisyGNN) |
 | [Resilient Graph Neural Networks: A Coupled Dynamical Systems Approach](https://arxiv.org/pdf/2311.06942) | 2024 | Node Classification | N/A |
 | [Defensevgae: Defending against adversarial attacks on graph data via a variational graph autoencoder](https://arxiv.org/pdf/2006.08900) | 2024 | Node Classification | [Link](https://github.com/zhangao520/defense-vgae) |
-| [Defending adversarial attacks in Graph Neural Networks via tensor enhancement](https://www.sciencedirect.com/science/article/abs/pii/S0031320324007052) | 2025 (available 2024) | Node Classification | N/A |
+| [Defending adversarial attacks in Graph Neural Networks via tensor enhancement](https://www.sciencedirect.com/science/article/abs/pii/S0031320324007052) | 2024 | Node Classification | N/A |
 | [Adversarial Weight Perturbation Improves Generalization in Graph Neural Networks](https://arxiv.org/pdf/2212.04983) | 2023 | Node Classification | [Link](https://github.com/yihwu/WT-AWP) |
 |[Linkteller: Recovering private edges from graph neural networks via influence analysis](https://arxiv.org/pdf/2108.06504) | 2022 | Node Classification | [Link](https://github.com/AI-secure/LinkTeller) |
 | [Certified robustness of graph neural networks against adversarial structural perturbation](https://arxiv.org/pdf/2008.10715) | 2021 |Node Classification, Graph Classification | [Link](https://github.com/binghuiwang/CertifyGNN) |
