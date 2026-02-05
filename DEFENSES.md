@@ -46,3 +46,9 @@
 | [Defending against backdoor attack on graph nerual network by explainability](https://arxiv.org/pdf/2209.02902) | 2022 | Graph classification | N/A                                                          |
 | [Securing GNNs: Explanation-Based Identification of Backdoored Training Graphs](https://arxiv.org/html/2403.18136v1) | 2024 | Graph classification | N/A                                                          |
 | [Gnncert: Deterministic certification of graph neural networks against adversarial perturbations](https://openreview.net/pdf?id=IGzaH538fz) | 2024 | Graph classification | [Link](https://github.com/XiaFire/GNNCERT)                   |
+| [Safeguarding Graph Neural Networks against Topology Inference Attacks](https://dl.acm.org/doi/pdf/10.1145/3719027.3765173) | 2025 | Node Classification | [Link](https://github.com/JeffffffFu/PGR) |
+| [CryptGNN: Enabling Secure Inference for Graph Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3719027.3765232) | 2025 | Node Classification, Graph Classification | [Link](https://zenodo.org/records/17169228) |
+| [CoGNN: Towards Secure and Efficient Collaborative Graph Learning](https://dl.acm.org/doi/pdf/10.1145/3658644.3670300) | 2024 | Node Classification | [Link](https://github.com/InspiringGroup-Lab/CoGNN) |
+| [Distributed Backdoor Attacks on Federated Graph Learning and Certified Defenses](https://dl.acm.org/doi/pdf/10.1145/3658644.3690187) | 2024 | Graph Classification | N/A |
+| [Blink: Link Local Differential Privacy in Graph Neural Networks via Bayesian Estimation](https://dl.acm.org/doi/pdf/10.1145/3576915.3623165) | 2023 | Node Classification | [Link](https://github.com/zhxchd/blink_gnn) |
+| [LPGNet: Link Private Graph Networks for Node Classification](https://dl.acm.org/doi/pdf/10.1145/3548606.3560705) | 2022 | Node Classification | [Link](https://github.com/aashishkolluri/lpgnet-prototype) |
