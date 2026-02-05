@@ -85,6 +85,8 @@
 | [Gnnbleed: Inference attacks to unveil private edges in graphs with realistic access to gnn models](https://arxiv.org/pdf/2311.16139) | 2023 | Node Classification  | N/A |
 | [Maui: Black-box edge privacy attack on graph neural networks](https://petsymposium.org/popets/2024/popets-2024-0121.pdf) | 2024 | Node Classification | [Link](https://github.com/iHeartGraph/Maui) |
 | [Distributed Backdoor Attacks on Federated Graph Learning and Certified Defenses](https://dl.acm.org/doi/pdf/10.1145/3658644.3690187) | 2024 | Graph Classification | [Link]( https://github.com/Yuxin104/Opt-GDBA) |
-| [Devil in Disguise: Breaching Graph Neural Networks Privacy through Infiltration](https://dl.acm.org/doi/pdf/10.1145/3576915.3623173) | 2024 | Node Classification | N/A |
+| [Devil in Disguise: Breaching Graph Neural Networks Privacy through Infiltration](https://dl.acm.org/doi/pdf/10.1145/3576915.3623173) | 2023 | Node Classification | N/A |
+| [GOttack: Universal Adversarial Attacks on Graph Neural Networks via Graph Orbits Learning](https://openreview.net/pdf?id=YbURbViE7l) | 2025 | Node Classification | [Link](https://github.com/cakcora/GOttack) |
+
 
 
